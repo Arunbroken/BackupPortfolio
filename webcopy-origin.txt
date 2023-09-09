@@ -1,0 +1,664 @@
+Uri: https://www.pratibhajoshi.com/
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\index.htm
+Content Type: text/html
+
+Uri: https://www.pratibhajoshi.com/webfonts/Calibre-Thin.woff2
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\webfonts\Calibre-Thin.woff2
+Content Type: font/woff2
+
+Uri: https://www.pratibhajoshi.com/webfonts/Calibre-Thin.woff
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\webfonts\Calibre-Thin.woff
+Content Type: font/woff
+
+Uri: https://www.pratibhajoshi.com/webfonts/Calibre-Light.woff2
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\webfonts\Calibre-Light.woff2
+Content Type: font/woff2
+
+Uri: https://www.pratibhajoshi.com/webfonts/Calibre-Light.woff
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\webfonts\Calibre-Light.woff
+Content Type: font/woff
+
+Uri: https://www.pratibhajoshi.com/webfonts/Calibre-Regular.woff2
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\webfonts\Calibre-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://www.pratibhajoshi.com/webfonts/Calibre-Regular.woff
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\webfonts\Calibre-Regular.woff
+Content Type: font/woff
+
+Uri: https://www.pratibhajoshi.com/webfonts/Calibre-Medium.woff2
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\webfonts\Calibre-Medium.woff2
+Content Type: font/woff2
+
+Uri: https://www.pratibhajoshi.com/webfonts/Calibre-Medium.woff
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\webfonts\Calibre-Medium.woff
+Content Type: font/woff
+
+Uri: https://www.pratibhajoshi.com/webfonts/Calibre-Semibold.woff2
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\webfonts\Calibre-Semibold.woff2
+Content Type: font/woff2
+
+Uri: https://www.pratibhajoshi.com/webfonts/Calibre-Semibold.woff
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\webfonts\Calibre-Semibold.woff
+Content Type: font/woff
+
+Uri: https://www.pratibhajoshi.com/webfonts/Calibre-Bold.woff2
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\webfonts\Calibre-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://www.pratibhajoshi.com/webfonts/Calibre-Bold.woff
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\webfonts\Calibre-Bold.woff
+Content Type: font/woff
+
+Uri: https://www.pratibhajoshi.com/webfonts/Calibre-Black.woff2
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\webfonts\Calibre-Black.woff2
+Content Type: font/woff2
+
+Uri: https://www.pratibhajoshi.com/webfonts/Calibre-Black.woff
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\webfonts\Calibre-Black.woff
+Content Type: font/woff
+
+Uri: https://www.pratibhajoshi.com/webfonts/NoeDisplay-Bold.woff2
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\webfonts\NoeDisplay-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://www.pratibhajoshi.com/webfonts/NoeDisplay-Bold.woff
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\webfonts\NoeDisplay-Bold.woff
+Content Type: font/woff
+
+Uri: https://www.pratibhajoshi.com/webfonts/NoeDisplay-Regular.woff2
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\webfonts\NoeDisplay-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://www.pratibhajoshi.com/webfonts/NoeDisplay-Regular.woff
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\webfonts\NoeDisplay-Regular.woff
+Content Type: font/woff
+
+Uri: https://www.pratibhajoshi.com/wp-includes/css/dist/block-library/style.min.css?ver=5.4.8
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-includes\css\dist\block-library\style.min.css
+Content Type: text/css
+
+Uri: https://www.pratibhajoshi.com/wp-content/plugins/contact-widgets/assets/css/font-awesome.min.css?ver=4.7.0
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\plugins\contact-widgets\assets\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.pratibhajoshi.com/wp-content/themes/semplice4/style.css?ver=4.4.4
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\themes\semplice4\style.css
+Content Type: text/css
+
+Uri: https://www.pratibhajoshi.com/wp-content/themes/semplice4/assets/css/frontend.min.css?ver=4.4.4
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\themes\semplice4\assets\css\frontend.min.css
+Content Type: text/css
+
+Uri: https://www.pratibhajoshi.com/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css?ver=4.2.13-9993131
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-includes\js\mediaelement\mediaelementplayer-legacy.min.css
+Content Type: text/css
+
+Uri: https://www.pratibhajoshi.com/wp-content/plugins/contact-widgets/assets/css/style.min.css?ver=1.0.1
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\plugins\contact-widgets\assets\css\style.min.css
+Content Type: text/css
+
+Uri: https://www.pratibhajoshi.com/wp-json/
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-json\index.htm.json
+Content Type: application/json
+
+Uri: https://www.pratibhajoshi.com/xmlrpc.php?rsd
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\xmlrpc.php.xml
+Content Type: text/xml
+
+Uri: https://www.pratibhajoshi.com/wp-includes/wlwmanifest.xml
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-includes\wlwmanifest.xml
+Content Type: application/xml
+
+Uri: https://www.pratibhajoshi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pratibhajoshi.com%2F
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-json\oembed\1.0\embed.json
+Content Type: application/json
+
+Uri: https://www.pratibhajoshi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pratibhajoshi.com%2F&format=xml
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-json\oembed\1.0\embed.xml
+Content Type: text/xml
+
+Uri: https://fonts.googleapis.com/css?family=Source+Serif+Pro:400,600,700
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\css.css
+Content Type: text/css
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/10/p_favicon.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\10\p_favicon.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/about
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\about.html
+Content Type: text/html
+
+Uri: https://www.pratibhajoshi.com/experiments
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\experiments.html
+Content Type: text/html
+
+Uri: https://www.google.com/
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\index-2.htm
+Content Type: text/html
+
+Uri: https://www.sprinklr.com/
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\index-3.htm
+Content Type: text/html
+
+Uri: https://www.pratibhajoshi.com/project/space
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\project\space.html
+Content Type: text/html
+
+Uri: https://www.pratibhajoshi.com/project/microsoft-sales-experience-duplicate
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\project\microsoft-sales-experience-duplicate.html
+Content Type: text/html
+
+Uri: https://www.pratibhajoshi.com/project/microsoft-sales-experience
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\project\microsoft-sales-experience.html
+Content Type: text/html
+
+Uri: https://www.pratibhajoshi.com/project/content-marketing
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\project\content-marketing.html
+Content Type: text/html
+
+Uri: https://www.pratibhajoshi.com/project/narendra-modi-bjp-connect
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\project\narendra-modi-bjp-connect.html
+Content Type: text/html
+
+Uri: https://www.pratibhajoshi.com/project/social-selling
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\project\social-selling.html
+Content Type: text/html
+
+Uri: https://www.lapa.ninja/post/pratibha-joshi/
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\post\pratibha-joshi\index.htm
+Content Type: text/html
+
+Uri: https://land-book.com/websites/9918-home-pratibha-joshi-product-designer
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\websites\9918-home-pratibha-joshi-product-designer.html
+Content Type: text/html
+
+Uri: https://www.bestfolios.com/portfolio/pratibhajoshi
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\portfolio\pratibhajoshi.html
+Content Type: text/html
+
+Uri: https://medium.com/bestfolios/8-amazing-portfolio-websites-from-product-designers-560e8211e9f6
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\bestfolios\8-amazing-portfolio-websites-from-product-designers-560e8211e9f6.html
+Content Type: text/html
+
+Uri: https://uxplanet.org/32-best-product-design-ish-portfolios-beginning-of-2019-edition-d915d275a8c
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\32-best-product-design-ish-portfolios-beginning-of-2019-edition-d915d275a8c.html
+Content Type: text/html
+
+Uri: https://www.designerhunt.io/
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\index-4.htm
+Content Type: text/html
+
+Uri: https://www.casestudy.club/journal/ux-designer-portfolio
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\journal\ux-designer-portfolio.html
+Content Type: text/html
+
+Uri: https://essays.uxdesign.cc/case-study-factory/
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\case-study-factory\index.htm
+Content Type: text/html
+
+Uri: https://www.facebook.com/Pratibhajo992
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\Pratibhajo992.html
+Content Type: text/html
+
+Uri: https://twitter.com/pratibhajo
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\pratibhajo.html
+Content Type: text/html
+
+Uri: https://dribbble.com/Pratibhajo
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\Pratibhajo-1.html
+Content Type: text/html
+
+Uri: https://www.instagram.com/pratibhajo/
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\pratibhajo\index.htm
+Content Type: text/html
+
+Uri: https://www.pratibhajoshi.com/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-includes\js\jquery\jquery.js
+Content Type: application/javascript
+
+Uri: https://www.pratibhajoshi.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-includes\js\jquery\jquery-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-130167283-1
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/Profile@2x.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\Profile@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2020/06/Space_Thumbnail@3x.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2020\06\Space_Thumbnail@3x.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2020/07/MBP-Thumb@3x.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2020\07\MBP-Thumb@3x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2020/06/MSX_Thumbnail@3x_Compressed.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2020\06\MSX_Thumbnail@3x_Compressed.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/Content_Tile.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\Content_Tile.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/BJPConnect_Tile.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\BJPConnect_Tile.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2020/01/SS_Tile2.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2020\01\SS_Tile2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2020/01/Lapa.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2020\01\Lapa.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2020/01/Landbook.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2020\01\Landbook.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2020/01/Bestfolios.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2020\01\Bestfolios.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2020/01/Medium.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2020\01\Medium.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2020/01/UXPlanet.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2020\01\UXPlanet.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2020/01/DesignerHunt.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2020\01\DesignerHunt.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2020/01/CaseStudy.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2020\01\CaseStudy.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2020/01/UXCollective.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2020\01\UXCollective.png
+Content Type: image/png
+
+Uri: https://s.w.org/images/core/emoji/11/svg/1f600.svg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\images\core\emoji\11\svg\1f600.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/Facebook@1x.svg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\Facebook@1x.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/Twitter@2x.svg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\Twitter@2x.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/Dribbble@2x.svg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\Dribbble@2x.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/Instagram@2x.svg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\Instagram@2x.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/Linkedin@2x.svg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\Linkedin@2x.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pratibhajoshi.com/wp-includes/js/mediaelement/mediaelement-and-player.min.js?ver=4.2.13-9993131
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-includes\js\mediaelement\mediaelement-and-player.min.js
+Content Type: application/javascript
+
+Uri: https://www.pratibhajoshi.com/wp-includes/js/mediaelement/mediaelement-migrate.min.js?ver=5.4.8
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-includes\js\mediaelement\mediaelement-migrate.min.js
+Content Type: application/javascript
+
+Uri: https://www.pratibhajoshi.com/wp-content/themes/semplice4/assets/js/frontend.min.js?ver=4.4.4
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\themes\semplice4\assets\js\frontend.min.js
+Content Type: application/javascript
+
+Uri: https://www.pratibhajoshi.com/wp-includes/js/wp-embed.min.js?ver=5.4.8
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-includes\js\wp-embed.min.js
+Content Type: application/javascript
+
+Uri: https://wordpress.org/
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.pratibhajoshi.com/wp-content/plugins/contact-widgets/assets/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\plugins\contact-widgets\assets\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pratibhajoshi.com/wp-content/plugins/contact-widgets/assets/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\plugins\contact-widgets\assets\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.pratibhajoshi.com/wp-content/plugins/contact-widgets/assets/fonts/fontawesome-webfont.woff2?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\plugins\contact-widgets\assets\fonts\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://www.pratibhajoshi.com/wp-content/plugins/contact-widgets/assets/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\plugins\contact-widgets\assets\fonts\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://www.pratibhajoshi.com/wp-content/plugins/contact-widgets/assets/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\plugins\contact-widgets\assets\fonts\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://www.pratibhajoshi.com/wp-content/plugins/contact-widgets/assets/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\plugins\contact-widgets\assets\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pratibhajoshi.com/wp-content/themes/semplice4/assets/images/admin/select_box_arrow.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\themes\semplice4\assets\images\admin\select_box_arrow.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/themes/semplice4/assets/images/frontend/icons/password_submit.svg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\themes\semplice4\assets\images\frontend\icons\password_submit.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pratibhajoshi.com/wp-content/themes/semplice4/assets/images/frontend/mediaelement/controls_old.svg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\themes\semplice4\assets\images\frontend\mediaelement\controls_old.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pratibhajoshi.com/wp-content/themes/semplice4/assets/images/frontend/mediaelement/bigplay.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\themes\semplice4\assets\images\frontend\mediaelement\bigplay.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/themes/semplice4/assets/images/frontend/mediaelement/controls_recent.svg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\themes\semplice4\assets\images\frontend\mediaelement\controls_recent.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pratibhajoshi.com/wp-content/themes/semplice4/assets/images/frontend/photoswipe/default-skin.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\themes\semplice4\assets\images\frontend\photoswipe\default-skin.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/themes/semplice4/assets/images/frontend/photoswipe/default-skin.svg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\themes\semplice4\assets\images\frontend\photoswipe\default-skin.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pratibhajoshi.com/wp-includes/js/mediaelement/mejs-controls.svg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-includes\js\mediaelement\mejs-controls.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pratibhajoshi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pratibhajoshi.com%2Fabout
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-json\oembed\1.0\embed-1.json
+Content Type: application/json
+
+Uri: https://www.pratibhajoshi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pratibhajoshi.com%2Fabout&format=xml
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-json\oembed\1.0\embed-1.xml
+Content Type: text/xml
+
+Uri: https://www.microsoft.com/en-us/
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\en-us\index.htm
+Content Type: text/html
+
+Uri: https://www.pratibhajoshi.com/Pratibha_Résumé.pdf
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\Pratibha_Résumé.pdf
+Content Type: application/pdf
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/DSCF6070_crunched.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\DSCF6070_crunched.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2019/01/ILLUSTRATION-1@2x.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2019\01\ILLUSTRATION-1@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2019/01/ILLUSTRATION-3@2x.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2019\01\ILLUSTRATION-3@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2019/01/ILLUSTRATION-2@2x.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2019\01\ILLUSTRATION-2@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2019/01/P1@3x.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2019\01\P1@3x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2019/01/P2@3x.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2019\01\P2@3x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2019/01/P3@3x.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2019\01\P3@3x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2019/01/P4@3x.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2019\01\P4@3x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2019/01/P5@3x.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2019\01\P5@3x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2019/01/P6@3x.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2019\01\P6@3x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2019/01/P7@3x.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2019\01\P7@3x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2019/01/P8@3x.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2019\01\P8@3x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2019/01/P9@3x.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2019\01\P9@3x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pratibhajoshi.com%2Fexperiments
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-json\oembed\1.0\embed-2.json
+Content Type: application/json
+
+Uri: https://www.pratibhajoshi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pratibhajoshi.com%2Fexperiments&format=xml
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-json\oembed\1.0\embed-2.xml
+Content Type: text/xml
+
+Uri: https://s.w.org/images/core/emoji/11/svg/1f447.svg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\images\core\emoji\11\svg\1f447.svg
+Content Type: image/svg+xml
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2019/01/3_4_Uber.mp4
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2019\01\3_4_Uber.mp4
+Content Type: video/mp4
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2019/01/3_4_Shopping.mp4
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2019\01\3_4_Shopping.mp4
+Content Type: video/mp4
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2019/01/3_4_Poke.mp4
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2019\01\3_4_Poke.mp4
+Content Type: video/mp4
+
+Uri: https://www.microsoft.com/en-in/
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\en-in\index.htm
+Content Type: text/html
+
+Uri: https://www.pratibhajoshi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pratibhajoshi.com%2Fproject%2Fspace
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-json\oembed\1.0\embed-3.json
+Content Type: application/json
+
+Uri: https://www.pratibhajoshi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pratibhajoshi.com%2Fproject%2Fspace&format=xml
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-json\oembed\1.0\embed-3.xml
+Content Type: text/xml
+
+Uri: https://www.pratibhajoshi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pratibhajoshi.com%2Fproject%2Fmicrosoft-sales-experience-duplicate
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-json\oembed\1.0\embed-4.json
+Content Type: application/json
+
+Uri: https://www.pratibhajoshi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pratibhajoshi.com%2Fproject%2Fmicrosoft-sales-experience-duplicate&format=xml
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-json\oembed\1.0\embed-4.xml
+Content Type: text/xml
+
+Uri: https://www.pratibhajoshi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pratibhajoshi.com%2Fproject%2Fmicrosoft-sales-experience
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-json\oembed\1.0\embed-5.json
+Content Type: application/json
+
+Uri: https://www.pratibhajoshi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pratibhajoshi.com%2Fproject%2Fmicrosoft-sales-experience&format=xml
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-json\oembed\1.0\embed-5.xml
+Content Type: text/xml
+
+Uri: https://www.pratibhajoshi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pratibhajoshi.com%2Fproject%2Fcontent-marketing
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-json\oembed\1.0\embed-6.json
+Content Type: application/json
+
+Uri: https://www.pratibhajoshi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pratibhajoshi.com%2Fproject%2Fcontent-marketing&format=xml
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-json\oembed\1.0\embed-6.xml
+Content Type: text/xml
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/11/Solution_BG@2x.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\11\Solution_BG@2x.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/11/Results_BG_1@2x.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\11\Results_BG_1@2x.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pratibhajoshi.com%2Fproject%2Fnarendra-modi-bjp-connect
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-json\oembed\1.0\embed-7.json
+Content Type: application/json
+
+Uri: https://www.pratibhajoshi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pratibhajoshi.com%2Fproject%2Fnarendra-modi-bjp-connect&format=xml
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-json\oembed\1.0\embed-7.xml
+Content Type: text/xml
+
+Uri: https://en.wikipedia.org/wiki/Bharatiya_Janata_Party
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wiki\Bharatiya_Janata_Party.html
+Content Type: text/html
+
+Uri: https://gadgets.ndtv.com/apps/news/bjp-connect-party-members-android-app-download-collaboration-1740583
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\apps\news\bjp-connect-party-members-android-app-download-collaboration-1740583.html
+Content Type: text/html
+
+Uri: https://inc42.com/buzz/bjp-connect-chat-app/
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\buzz\bjp-connect-chat-app\index.htm
+Content Type: text/html
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/BJP_Cover@3x.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\BJP_Cover@3x.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/11/BJPLogo@2x.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\11\BJPLogo@2x.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/User_Research_Postits@2x.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\User_Research_Postits@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/User_1@2x.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\User_1@2x.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/User_2@2x.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\User_2@2x.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/User_3@2x.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\User_3@2x.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/Insights1@3x.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\Insights1@3x.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/Insights2@3x.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\Insights2@3x.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/Insights3@3x.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\Insights3@3x.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/11/Wireframe-1@2x.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\11\Wireframe-1@2x.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/11/Wireframe-2@2x.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\11\Wireframe-2@2x.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/11/Wireframe-3@2x.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\11\Wireframe-3@2x.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/11/Solution_Mobile_1@3x.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\11\Solution_Mobile_1@3x.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2019/01/BJP1.mp4
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2019\01\BJP1.mp4
+Content Type: video/mp4
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/BJP2.mp4
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\BJP2.mp4
+Content Type: video/mp4
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/BJP3.mp4
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\BJP3.mp4
+Content Type: video/mp4
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/BJP4.mp4
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\BJP4.mp4
+Content Type: video/mp4
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/BJP5.mp4
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\BJP5.mp4
+Content Type: video/mp4
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/11/Webtools_1@3x.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\11\Webtools_1@3x.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/Stats_Modi_1@2x.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\Stats_Modi_1@2x.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/Stats_Modi_2@2x.png
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\Stats_Modi_2@2x.png
+Content Type: image/png
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/Space_Panel@2x.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\Space_Panel@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2021/05/MS_Budget_Planning@2x.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2021\05\MS_Budget_Planning@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2020/01/MS_Sales_Panel@2x.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2020\01\MS_Sales_Panel@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/CM_Panel@2x.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\CM_Panel@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-content/uploads/2018/12/SS_Panel@2x.jpg
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-content\uploads\2018\12\SS_Panel@2x.jpg
+Content Type: image/jpeg
+
+Uri: https://www.pratibhajoshi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pratibhajoshi.com%2Fproject%2Fsocial-selling
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-json\oembed\1.0\embed-8.json
+Content Type: application/json
+
+Uri: https://www.pratibhajoshi.com/wp-json/oembed/1.0/embed?url=https:%2F%2Fwww.pratibhajoshi.com%2Fproject%2Fsocial-selling&format=xml
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\wp-json\oembed\1.0\embed-8.xml
+Content Type: text/xml
+
+Uri: https://uxplanet.org/32-best-product-design-ish-portfolios-beginning-of-2019-edition-d915d275a8c?gi=73606240abb5
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\32-best-product-design-ish-portfolios-beginning-of-2019-edition-d915d275a8c-1.html
+Content Type: text/html
+
+Uri: https://archive.factordaily.com/bjp-connect-app-for-collaboration-and-chat/
+File Name: C:\Downloaded Web Sites\www.pratibhajoshi.com\bjp-connect-app-for-collaboration-and-chat\index.htm
+Content Type: text/html
+
